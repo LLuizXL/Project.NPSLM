@@ -32,6 +32,7 @@ from {
 
 
 
+
 @keyframes breathe2 {
   0% {
       text-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
@@ -187,3 +188,7 @@ body {
   font-size: 20px;
   color: white;
 }
+
+#warning-text{
+  animation: scroll 10s linear infinite;
+  }
