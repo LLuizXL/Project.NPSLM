@@ -190,5 +190,5 @@ body {
 }
 
 #warning-text{
-  animation: scroll 10s linear infinite;
+  animation: textscroll 10s linear infinite;
   }
